@@ -9,7 +9,8 @@ Responsive Design: Adapts seamlessly to different screen sizes, ensuring a great
 on both desktop and mobile devices.
 
 ## Technologies Used
-React: For building the user interface.
+React: For building the user interface
+
 Vite: As a build tool for faster development and builds.
 
 ## Screenshot:
